@@ -55,5 +55,25 @@ python scripts used for wrangling the data used in iteration 3
 #### output json file
 ![7](https://user-images.githubusercontent.com/50584119/57629043-6ccbdd00-75de-11e9-88d0-a9c63da74d28.GIF)
 
+### 4.suburb and council
+
+#### input file
+![1](https://user-images.githubusercontent.com/50584119/57629582-5f632280-75df-11e9-910f-2599bc7a19c9.GIF)
+
+#### code
+![2](https://user-images.githubusercontent.com/50584119/57629583-5f632280-75df-11e9-9758-cb96bf7997c1.GIF)
+![3](https://user-images.githubusercontent.com/50584119/57629585-5ffbb900-75df-11e9-86de-b3ec7931d843.GIF)
+![4](https://user-images.githubusercontent.com/50584119/57629587-5ffbb900-75df-11e9-8a4b-6437b04e35aa.GIF)
+
+#### output csv file
+![5](https://user-images.githubusercontent.com/50584119/57629590-60944f80-75df-11e9-994e-707d43dd8c0c.GIF)
+
+#### code
+![6](https://user-images.githubusercontent.com/50584119/57629591-60944f80-75df-11e9-88d6-e0e17483112f.GIF)
+
+#### output json file
+![7](https://user-images.githubusercontent.com/50584119/57629592-60944f80-75df-11e9-8528-c60e8b5750e4.GIF)
+
+
 
 

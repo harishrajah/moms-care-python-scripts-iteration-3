@@ -74,6 +74,12 @@ python scripts used for wrangling the data used in iteration 3
 #### output json file
 ![7](https://user-images.githubusercontent.com/50584119/57629592-60944f80-75df-11e9-8528-c60e8b5750e4.GIF)
 
+### 5.suburb boundaries
+
+#### output geojson file
+![1](https://user-images.githubusercontent.com/50584119/57629990-237c8d00-75e0-11e9-934f-f99bd4aa0393.GIF)
+![2](https://user-images.githubusercontent.com/50584119/57629989-22e3f680-75e0-11e9-8758-9d389041d305.GIF)
+
 
 
 

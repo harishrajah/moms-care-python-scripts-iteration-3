@@ -36,4 +36,24 @@ python scripts used for wrangling the data used in iteration 3
 #### output json file
 ![7](https://user-images.githubusercontent.com/50584119/57627992-6b011a00-75dc-11e9-9328-7cf51933c54b.GIF)
 
+### 3.population
+
+#### input file
+![1](https://user-images.githubusercontent.com/50584119/57629035-6b021980-75de-11e9-9c8f-4435debbf1db.GIF)
+
+#### code
+![2](https://user-images.githubusercontent.com/50584119/57629036-6b021980-75de-11e9-9c35-59651ae9ddc2.GIF)
+![3](https://user-images.githubusercontent.com/50584119/57629037-6b9ab000-75de-11e9-86e6-25099a8a4a11.GIF)
+![4](https://user-images.githubusercontent.com/50584119/57629038-6b9ab000-75de-11e9-8ea3-50f320a59a95.GIF)
+
+#### output csv file
+![5](https://user-images.githubusercontent.com/50584119/57629040-6c334680-75de-11e9-8efc-58d369d4ec85.GIF)
+
+#### code
+![6](https://user-images.githubusercontent.com/50584119/57629041-6c334680-75de-11e9-81fe-b8562f9420f0.GIF)
+
+#### output json file
+![7](https://user-images.githubusercontent.com/50584119/57629043-6ccbdd00-75de-11e9-88d0-a9c63da74d28.GIF)
+
+
 
